@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\dell\desktop\first\first\main.cpp(125): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\dell\desktop\first\first\main.cpp(116): warning C4101: 'k': unreferenced local variable
+c:\users\dell\desktop\first\first\main.cpp(117): warning C4101: 'j': unreferenced local variable
+c:\users\dell\desktop\first\first\main.cpp(117): warning C4101: 'i': unreferenced local variable
+  First.vcxproj -> C:\Users\DELL\Desktop\First\Debug\First.exe
+  First.vcxproj -> C:\Users\DELL\Desktop\First\Debug\First.pdb (Full PDB)
